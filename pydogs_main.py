@@ -1,8 +1,13 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
+import tensorflow_hub as hub
 from PIL import Image
 
+model = tf.keras.models.load_model(
+    'dog_breed_classifier_model.h5',
+    custom_objects={'KerasLayer': hub.KerasLayer}
+)
 # Load the model
 model = tf.keras.models.load_model('dog_breed_classifier_model.h5')
 
