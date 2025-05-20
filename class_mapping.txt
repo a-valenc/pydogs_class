@@ -1,0 +1,120 @@
+n02085620-Chihuahua:Chihuahua
+n02085782-Japanese_spaniel:Japanese Spaniel
+n02085936-Maltese_dog:Maltese Dog
+n02086079-Pekinese:Pekinese
+n02086240-Shih-Tzu:Shih-Tzu
+n02086646-Blenheim_spaniel:Blenheim Spaniel
+n02086910-papillon:Papillon
+n02087046-toy_terrier:Toy Terrier
+n02087394-Rhodesian_ridgeback:Rhodesian Ridgeback
+n02088094-Afghan_hound:Afghan Hound
+n02088238-basset:Basset
+n02088364-beagle:Beagle
+n02088466-bloodhound:Bloodhound
+n02088632-bluetick:Bluetick
+n02089078-black-and-tan_coonhound:Black-And-Tan Coonhound
+n02089867-Walker_hound:Walker Hound
+n02089973-English_foxhound:English Foxhound
+n02090379-redbone:Redbone
+n02090622-borzoi:Borzoi
+n02090721-Irish_wolfhound:Irish Wolfhound
+n02091032-Italian_greyhound:Italian Greyhound
+n02091134-whippet:Whippet
+n02091244-Ibizan hound:Ibizan Hound
+n02091467-Norwegian_elkhound:Norwegian Elkhound
+n02091635-otterhound:Otterhound
+n02091831-Saluki:Saluki
+n02092002-Scottish_deerhound:Scottish Deerhound
+n02092339-Weimaraner:Weimaraner
+n02093256-Staffordshire_bullterrier:Staffordshire Bullterrier
+n02093428-American_Staffordshire terrier:American Staffordshire Terrier
+n02093647-Bedlington_terrier:Bedlington Terrier
+n02093754-Border_terrier:Border Terrier
+n02093859-Kerry_blue_terrier:Kerry Blue Terrier
+n02093991-Irish_terrier:Irish Terrier
+n02094114-Norfolk_terrier:Norfolk Terrier
+n02094258-Norwich_terrier:Norwich Terrier
+n02094433-Yorkshire terrier:Yorkshire Terrier
+n02095314-wire-haired_fox_terrier:Wire-Haired Fox Terrier
+n02095570-Lakeland_terrier:Lakeland Terrier
+n02095889-Sealyham_terrier:Sealyham Terrier
+n02096051-Airedale:Airedale
+n02096177-cairn:Cairn
+n02096294-Australian_terrier:Australian Terrier
+n02096437-Dandie Dinmont:Dandie Dinmont
+n02096585-Boston_bull:Boston Bull
+n02097047-miniature_schnauzer:Miniature Schnauzer
+n02097130-giant_schnauzer:Giant Schnauzer
+n02097209-standard_schnauzer:Standard Schnauzer
+n02097298-Scotch_terrier:Scotch Terrier
+n02097474-Tibetan_terrier:Tibetan Terrier
+n02097658-silky terrier:Silky Terrier
+n02098105-soft-coated_wheaten_terrier:Soft-Coated Wheaten Terrier
+n02098286-West_Highland_white_terrier:West Highland White Terrier
+n02098413-Lhasa:Lhasa
+n02099267-flat-coated_retriever:Flat-Coated Retriever
+n02099429-curly-coated_retriever:Curly-Coated Retriever
+n02099601-golden_retriever:Golden Retriever
+n02099712-Labrador retriever:Labrador Retriever
+n02099849-Chesapeake_Bay_retriever:Chesapeake Bay Retriever
+n02100236-German_short-haired_pointer:German Short-Haired Pointer
+n02100583-vizsla:Vizsla
+n02100735-English_setter:English Setter
+n02100877-Irish_setter:Irish Setter
+n02101006-Gordon_setter:Gordon Setter
+n02101388-Brittany_spaniel:Brittany Spaniel
+n02101556-clumber:Clumber
+n02102040-English_springer:English Springer
+n02102177-Welsh_springer_spaniel:Welsh Springer Spaniel
+n02102318-cocker spaniel:Cocker Spaniel
+n02102480-Sussex_spaniel:Sussex Spaniel
+n02102973-Irish_water_spaniel:Irish Water Spaniel
+n02104029-kuvasz:Kuvasz
+n02104365-schipperke:Schipperke
+n02105056-groenendael:Groenendael
+n02105162-malinois:Malinois
+n02105251-briard:Briard
+n02105412-kelpie:Kelpie
+n02105505-komondor:Komondor
+n02105641-Old_English_sheepdog:Old English Sheepdog
+n02105855-Shetland_sheepdog:Shetland Sheepdog
+n02106030-collie:Collie
+n02106166-Border_collie:Border Collie
+n02106382-Bouvier des Flandres:Bouvier Des Flandres
+n02106550-Rottweiler:Rottweiler
+n02106662-German_shepherd:German Shepherd
+n02107142-Doberman:Doberman
+n02107312-miniature_pinscher:Miniature Pinscher
+n02107574-Greater Swiss_Mountain_dog:Greater Swiss Mountain Dog
+n02107683-Bernese_mountain_dog:Bernese Mountain Dog
+n02107908-Appenzeller:Appenzeller
+n02108000-Entlebucher:Entlebucher
+n02108089-boxer:Boxer
+n02108422-bull_mastiff:Bull Mastiff
+n02108551-Tibetan_mastiff:Tibetan Mastiff
+n02108915-French_bulldog:French Bulldog
+n02109047-Great Dane:Great Dane
+n02109525-Saint_Bernard:Saint Bernard
+n02109961-Eskimo_dog:Eskimo Dog
+n02110063-malamute:Malamute
+n02110185-Siberian_husky:Siberian Husky
+n02110627-affenpinscher:Affenpinscher
+n02110806-basenji:Basenji
+n02110958-pug:Pug
+n02111129-Leonberg:Leonberg
+n02111277-Newfoundland:Newfoundland
+n02111500-Great Pyrenees:Great Pyrenees
+n02111889-Samoyed:Samoyed
+n02112018-Pomeranian:Pomeranian
+n02112137-chow:Chow
+n02112350-keeshond:Keeshond
+n02112706-Brabancon_griffon:Brabancon Griffon
+n02113023-Pembroke:Pembroke
+n02113186-Cardigan:Cardigan
+n02113624-toy_poodle:Toy Poodle
+n02113712-miniature_poodle:Miniature Poodle
+n02113799-standard_poodle:Standard Poodle
+n02113978-Mexican_hairless:Mexican Hairless
+n02115641-dingo:Dingo
+n02115913-dhole:Dhole
+n02116738-African_hunting_dog:African Hunting Dog
