@@ -1,11 +1,13 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
-import tensorflow_hub as hub
 from PIL import Image
 #load the model
-model = tf.keras.models.load_model("dog_breed_classifier_model.keras")
+@st.cache_resource
+def load_model():
+    return tf.keras.models.load_model('dog_breed_classifier_model.keras')
 
+model = load_model()
 # Load mapping from text file
 def load_class_mapping(path="class_mapping.txt"):
     mapping = {}
