@@ -3,13 +3,8 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 from PIL import Image
-
-model = tf.keras.models.load_model(
-    'dog_breed_classifier_model.h5',
-    custom_objects={'KerasLayer': hub.KerasLayer}
-)
-# Load the model
-model = tf.keras.models.load_model('dog_breed_classifier_model.h5')
+#load the model
+model = tf.keras.models.load_model('dog_breed_classifier_model.keras')
 
 # Load mapping from text file
 def load_class_mapping(path="class_mapping.txt"):
