@@ -6,7 +6,7 @@ from PIL import Image
 #load the model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('dog_breed_classifier_model.keras')
+    return tf.keras.models.load_model('dog_model_saved')
 
 model = load_model()
 # Load mapping from text file
