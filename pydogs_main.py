@@ -30,8 +30,8 @@ transform = transforms.Compose([
 @st.cache_resource
 def load_model():
     num_classes = len(class_labels)
-    model = models.resnet18(pretrained=False)
-    model.fc = nn.Linear(model.fc.in_features, num_classes)
+    model = models.efficientnet_b0(weights=None)  # Use the same model from training
+    model.classifier[1] = nn.Linear(model.classifier[1].in_features, num_classes)
     model.load_state_dict(torch.load("best_model.pth", map_location=torch.device("cpu")))
     model.eval()
     return model
