@@ -1,6 +1,8 @@
 streamlit
-tensorflow==2.18.0
-tensorflow_hub
+torch
+torchvision
+Pillow
 numpy
-pillow
-keras
+matplotlib
+scikit-learn
+opencv-python
