@@ -32,7 +32,7 @@ def load_model():
     num_classes = len(class_labels)
     model = models.resnet18(pretrained=False)
     model.fc = nn.Linear(model.fc.in_features, num_classes)
-    model.load_state_dict(torch.load("model_weights.pth", map_location=torch.device("cpu")))
+    model.load_state_dict(torch.load("best_model.pth", map_location=torch.device("cpu")))
     model.eval()
     return model
 
