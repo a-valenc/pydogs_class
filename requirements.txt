@@ -1,8 +1,8 @@
 streamlit
-tensorflow
+torch
+torchvision
 Pillow
 numpy
 matplotlib
 scikit-learn
 opencv-python
-keras
